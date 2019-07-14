@@ -36,7 +36,7 @@ User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko
 
 ### Run by docker
 
-`docker run -d -p 8000:8000 --name simple-web kunka/simplest-web:v0.1`
+`docker run -d -p 8000:8000 --name simple-web kunka/simplest-web:latest`
 
 ### Run by manully
 
